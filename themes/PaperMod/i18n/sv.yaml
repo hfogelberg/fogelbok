@@ -1,0 +1,24 @@
+- id: prev_page
+  translation: "Föregående sida"
+
+- id: next_page
+  translation: "Nästa sida"
+
+- id: read_time
+  translation:
+    one : "1 min"
+    other: "{{ .Count }} min"
+
+- id: toc
+  translation: "Innehåll"
+
+- id: translations
+  translation: "Översättningae"
+
+- id: home
+  translation: "Hem"
+
+- id: code_copy
+  translation: "copy"
+
+- id: code_copied
